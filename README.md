@@ -15,7 +15,7 @@ Please download them from the [Latest Release page](https://github.com/saresrg/G
 
 Please refer to the Fire District map when making your Mike-Mike report.
 
-* `Sunnyvale_DPS_SERV_Feb2019.pdf` ‑ Sunnyvale Fire District Map for Mike-Mike reporting
+* `Sunnyvale_Fire_District_Map.pdf` ‑ Fire District Map for Mike-Mike reporting
 * `SARES_MM_tally_sheet.pdf` ‑ Tally sheet _for net control use_
 
 ### Frequency Lists
