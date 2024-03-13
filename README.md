@@ -8,8 +8,8 @@ Please download them from the [Latest Release page](https://github.com/saresrg/G
 
 ### Emergency Plans
 
-* `SARES_Emergency_Plan_Rev_Jan_2020.pdf` ‑ Emergency Plan
-* `ICS-205-SARES_Comm_Plan-Sept_2019.pdf` ‑ Communications Plan
+* `SARES_Emergency_Plan-<version>.pdf` ‑ Emergency Plan
+* `ICS-205-SARES_Comm_Plan-<version>.pdf` ‑ Communications Plan
 
 ### Mike-Mike Reporting
 
